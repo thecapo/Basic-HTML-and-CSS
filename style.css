@@ -1,0 +1,71 @@
+nav {
+	
+	font-size: 25px;
+	word-spacing: 10px;
+		
+}
+
+h1 {
+
+	color: #660066;
+	text-align: center;
+	font-size: 160px;
+	background-color: gray;
+	border: 20px solid green;
+		
+}
+
+strong{
+
+	font-size: 120px;
+	text-shadow: 10px 10px #cc0000;
+	
+}
+
+p {
+
+	color: white;
+	border: 20px solid yellow;
+	padding: 10px;
+	font: 30px arial, sans-serif;
+
+}
+
+body {
+
+	background:black;
+
+}
+
+footer {
+
+	padding: 10px;
+	color: #00FF00;
+	font: 20px arial;
+	background: #000000;
+	border: 20px solid red;
+
+}
+
+
+a:link {
+	color:#CCFFFF; 
+	background-color:transparent; 
+	font-size:45px;
+	
+}
+
+a:visited  {
+	color:#ff99ff; 
+	background-color:transparent; 
+	font-size:40px;
+
+}
+
+a:hover {
+	background-color: #660066; 
+	transition:0.5s; 
+	text-decoration: underline;
+
+}
+
